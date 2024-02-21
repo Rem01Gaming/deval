@@ -10,7 +10,7 @@ Usage: ./deval.sh <encrypted script>
 
 Example: `./deval.sh ./encrypted`
 
-Output: `./encrypted.sh.dec`
+Output: `./encrypted.dec.sh`
 
 Multiple files are supported
 
