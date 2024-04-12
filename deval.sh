@@ -17,7 +17,7 @@
 show_usage_deval() {
 	cat <<"EOF"
 deval - decrypt eval encrypted shell script
-  usage: sudo [-l] file1 file2
+  usage: ./deval.sh [-l] obfuscated1.sh obfuscated2.sh
 
     Options:
       -l          Penetrate double layer obfuscation
